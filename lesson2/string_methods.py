@@ -27,7 +27,7 @@ print(s.upper())
 print(s)
 
 #************************************
-#splin()
+#split()
 #Contact was added: egdfukw3574632483pjfskjdfj;sldlfg'd
 print("***************************")
 s = 'Cat, Dog,Monster Rabbit, Pig'
